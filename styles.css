@@ -1,0 +1,55 @@
+.head1{
+    margin-left: 50px;
+}
+.profile{
+    margin-left: 50px;
+    box-shadow: 2px 5px 5px rgba(31, 90, 46, 0.5);
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 50px;
+    background-color: rgb(23, 65, 25);
+    box-shadow: 2px 5px 5px rgba(31, 90, 46, 0.5);
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.info{
+    margin-left: 50px;
+}
+.skl{
+    margin-left: 50px;
+    padding: 50px;
+}
+.art{
+    border-radius: 100px;
+}
+.web{
+    border-radius: 100px;
+}
+
+.artp .webp{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.wks{
+    margin-left: 50px;
+    padding: 50px;
+}
+.im1{
+    padding: 20px;
+    box-shadow: 2px 5px 5px rgba(31, 90, 46, 0.5);
+}
+.im2{
+    padding: 20px;
+    box-shadow: 2px 5px 5px rgba(31, 90, 46, 0.5);
+}
+.im3{
+    padding: 20px;
+    box-shadow: 2px 5px 5px rgba(31, 90, 46, 0.5);
+}
+.ctc
+{
+    margin-left: 50px;
+    padding: 30px;
+}
